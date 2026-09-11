@@ -1,0 +1,135 @@
+{
+  "Collection": "Aleshire Squeeze Digitization",
+  "URL": "https://github.com/digitalepigraphy/Aleshire/",
+  "Records": {
+    "DEA_UCB_01": {
+      "Description": "3D digitization of the squeeze using bidirectional flatbed scanning.",
+      "Date": "2015/04/30 18:27",
+      "Scanner": "EPSON Expression 10000XL",
+      "Width": "4856",
+      "Height": "6062",
+      "DPI": "600",
+      "Digitized by": "John Lanier",
+      "Depth Range": "15",
+      "DPI shown": "60",
+      "Editors": [
+        {
+          "id": "AngelosBarmpoutis"
+        }
+      ],
+      "Sources": [
+        {
+          "id": "MVA2010"
+        }
+      ],
+      "Squeeze": {
+        "Description": "Paper cast from the collection of the University of California Berkeley",
+        "Present location": "University of California Berkeley",
+        "Principal Investigator": "Nikolaos Papazarkadas",
+        "Material": "Paper pulp",
+        "Title": "Theban Epigram (left)"
+      }
+    },
+    "DEA_UCB_02": {
+      "Description": "3D digitization of the squeeze using bidirectional flatbed scanning.",
+      "Date": "2015/04/30 18:27",
+      "Scanner": "EPSON Expression 10000XL",
+      "Width": "4856",
+      "Height": "6062",
+      "DPI": "600",
+      "Digitized by": "John Lanier",
+      "Depth Range": "15",
+      "DPI shown": "60",
+      "Editors": [
+        {
+          "id": "AngelosBarmpoutis"
+        }
+      ],
+      "Sources": [
+        {
+          "id": "MVA2010"
+        }
+      ],
+      "Squeeze": {
+        "Description": "Paper cast from the collection of the University of California Berkeley",
+        "Present location": "University of California Berkeley",
+        "Principal Investigator": "Nikolaos Papazarkadas",
+        "Material": "Paper pulp",
+        "Title": "Theban Epigram (right)"
+      }
+    },
+    "DEA_UCB_03": {
+      "Description": "3D digitization of the squeeze using bidirectional flatbed scanning.",
+      "Date": "2015/04/30 18:27",
+      "Scanner": "EPSON Expression 10000XL",
+      "Width": "4856",
+      "Height": "6062",
+      "DPI": "600",
+      "Digitized by": "John Lanier",
+      "Depth Range": "15",
+      "DPI shown": "60",
+      "Editors": [
+        {
+          "id": "AngelosBarmpoutis"
+        }
+      ],
+      "Sources": [
+        {
+          "id": "MVA2010"
+        }
+      ],
+      "Squeeze": {
+        "Description": "Paper cast from the collection of the University of California Berkeley",
+        "Present location": "University of California Berkeley",
+        "Principal Investigator": "Nikolaos Papazarkadas",
+        "Material": "Paper pulp",
+        "Title": "Greek Column from Siphnos"
+      }
+    },
+    "IG_I3_475": {
+      "Description": "3D digitization of the squeeze using bidirectional flatbed scanning.",
+      "Date": "2015/04/28 18:30:16",
+      "Scanner": "EPSON Expression 10000XL",
+      "Width": "5006",
+      "Height": "7319",
+      "DPI": "600",
+      "Digitized by": "John Lanier",
+      "Depth Range": "20",
+      "DPI shown": "60",
+      "Editors": [
+        {
+          "id": "AngelosBarmpoutis"
+        }
+      ],
+      "Sources": [
+        {
+          "id": "MVA2010"
+        }
+      ],
+      "Squeeze": {
+        "Description": "Paper cast from the collection of the University of California Berkeley",
+        "Present location": "University of California Berkeley",
+        "Principal Investigator": "Nikolaos Papazarkadas",
+        "Material": "Paper pulp",
+        "Title": "Greek Column IG I3 475",
+        "IG Number": "I3 475"
+      }
+    }
+  },
+  "Editors": {
+    "AngelosBarmpoutis": {
+      "Name": "Angelos Barmpoutis"
+    }
+  },
+  "Sources": {
+    "MVA2010": {
+      "Author(s)": "A. Barmpoutis, E. Bozia, R. S. Wagman",
+      "Title": "A novel framework for 3D reconstruction and analysis of ancient inscriptions",
+      "Publication": "Journal of Machine Vision and Applications",
+      "Volume": "21",
+      "Number": "6",
+      "Year": "2010",
+      "Pages": "989-998"
+    }
+  }
+}

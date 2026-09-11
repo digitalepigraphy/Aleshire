@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<record>
+	<record_link type="neobject" value="Squeeze.xml"></record_link>
+	<record_link type="image" value="ImageLeft.png"></record_link>
+	<record_link type="image" value="ImageBottom.png"></record_link>
+	<record_link type="image" value="ImageRight.png"></record_link>
+	<record_link type="image" value="ImageTop.png"></record_link>
+	<field id="27" value="3D digitization of the squeeze using bidirectional flatbed scanning.">
+		<source id="../References/MVA2010/Info.xml"></source>
+		<editor id="../References/AngelosBarmpoutis/Info.xml"></editor>
+	</field>
+	<field id="8" value="2015/04/30 18:27"></field>
+	<field id="32" value="EPSON Expression 10000XL"></field>
+	<field id="34" value="4856"></field>
+	<field id="35" value="6062"></field>
+	<field id="33" value="600"></field>
+	<field id="45" value="John Lanier"></field>
+	<field id="49" value="15"></field>
+	<field id="51" value="60"></field> 
+</record>
