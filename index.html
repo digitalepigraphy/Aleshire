@@ -862,8 +862,9 @@
         var tail = [s.Publication, s.Volume ? ("vol. " + s.Volume) : null, s.Number ? ("no. " + s.Number) : null]
           .filter(Boolean).join(", ");
         var year = s.Year ? " (" + s.Year + ")" : "";
+        var publisher = s.Publisher ? ", " + s.Publisher : "";
         var pages = s.Pages ? ", pp. " + s.Pages : "";
-        var text = [bits, tail].filter(Boolean).join(" — ") + year + pages;
+        var text = [bits, tail].filter(Boolean).join(" — ") + year + publisher + pages;
         return { text: text || entry.id, url: null };
       }
       if (entry.url) return { text: entry.url, url: entry.url };
