@@ -1468,7 +1468,13 @@
     initSearch();
     initGrid();
     initLightbox();
-    render();
+    var initialQuery = new URLSearchParams(window.location.search).get("q");
+    if (initialQuery) {
+      els.input.value = initialQuery;
+      els.input.dispatchEvent(new Event("input"));
+    } else {
+      render();
+    }
     els.input.focus({ preventScroll: true });
   }
 
